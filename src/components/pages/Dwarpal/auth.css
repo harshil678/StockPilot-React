@@ -1,0 +1,11 @@
+.authContainer {
+  background-color: red;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.blurrish {
+  backdrop-filter: blur(10px);
+}
